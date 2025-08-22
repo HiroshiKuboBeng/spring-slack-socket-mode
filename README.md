@@ -6,7 +6,7 @@
 
 - Java 21
 - Spring Boot 3.5.5
-- [Slack Bolt for Java](https://slack.dev/java-slack-sdk/guides/bolt-socket-mode) 1.45.3
+- Slack Bolt for Java (socket mode) 1.45.3
 - Gradle 
 
 ## Slack App の設定
